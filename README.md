@@ -144,6 +144,8 @@ Example output for training an MLP with 2 hidden layers (11500 and 6500 neurons,
 ---
 **Train & Validation Loss Plot:**
 ![Train Loss Plot](./Images/train-loss-acc.png)
+---
+
 
 ```
 Test Accuracy: 74.7%
